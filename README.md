@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael, an <a href="https://linkedin.com/in/sirmichaelyoung">IT Professional</a>👍</h1>
+<h1>Hi, I'm Michael, an <a href="https://linkedin.com/in/sirmichaelyoung">IT Professional</a></h1>
 
 <h2>Information Technology Demonstrations & Tutorials:</h2>
 
@@ -14,6 +14,7 @@
 [<img align="left" alt="Michael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Michael | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<h2>Let's Connect:</h2>
 
 [instagram]: https://www.instagram.com/sirmichaelyoung
 [linkedin]: https://linkedin.com/in/sirmichaelyoung
