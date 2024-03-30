@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael, an <a href="https://linkedin.com/in/sirmichaelyoung">IT Professional</a></h1>
+<h1>Greetings! I'm Michael, an <a href="https://linkedin.com/in/sirmichaelyoung">IT Professional</a></h1>
 
 <h2>Information Technology Demonstrations & Tutorials:</h2>
 
