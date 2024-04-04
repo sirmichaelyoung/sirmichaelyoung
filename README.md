@@ -15,7 +15,7 @@
    - [Using Shapr3D to Create Improved Threads & Bolts](https://github.com/sirmichaelyoung/cad-improved-threads)
   - [Inserting G-Code Commands: Pause at Layer](https://github.com/sirmichaelyoung/gcode-layer-pause)
   - [Manufacturing Large Parts, Two Simple Methods](https://github.com/sirmichaelyoung/big-prints)
-  - [Troubleshooting a Defective Extruder](https://github.com/sirmichaelyoung/extruder-replace)
+  - [Replacing an Extruder Assembly](https://github.com/sirmichaelyoung/extruder-replace)
   
 
 <h2>Let's Connect:</h2>
