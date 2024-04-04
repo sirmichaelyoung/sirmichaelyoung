@@ -9,6 +9,13 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sirmichaelyoung/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sirmichaelyoung/azure-network-protocols)
+ 
+<h2>CAD & Additive Manufactruing Demonstrations & Tutorials:</h2>
+
+- [Using Shapr3D to Create Improved Threads & Bolts](https://github.com/sirmichaelyoung/cad-improved-threads)
+- [Inserting G-Code Commands: Pause at Layer](https://github.com/sirmichaelyoung/gcode-layer-pause)
+- [Manufacturing Large Parts, Two Simple Methods](https://github.com/sirmichaelyoung/big-prints)
+- [Extruder Hardware Replacement & Upgrade](https://github.com/sirmichaelyoung/extruder-replace)
 
 <h2>Let's Connect:</h2>
 
