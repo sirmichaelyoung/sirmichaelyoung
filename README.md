@@ -12,10 +12,10 @@
  
 <h2>Additive Manufactruing & CAD Demonstrations & Tutorials:</h2>
 
-   - [Using Shapr3D to Create Improved Threads & Bolts](https://github.com/sirmichaelyoung/cad-improved-threads)
+   - [Creating Improved Threads & Bolts Using Shapr3D](https://github.com/sirmichaelyoung/cad-improved-threads)
   - [Inserting G-Code Commands: Pause at Layer](https://github.com/sirmichaelyoung/gcode-layer-pause)
   - [Manufacturing Large Parts, Two Simple Methods](https://github.com/sirmichaelyoung/big-prints)
-  - [Replacing an Extruder Assembly](https://github.com/sirmichaelyoung/extruder-replace)
+  - [Extruder Assembly Replacement](https://github.com/sirmichaelyoung/extruder-replace)
   
 
 <h2>Let's Connect:</h2>
