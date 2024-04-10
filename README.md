@@ -15,7 +15,11 @@
   - [Inserting G-Code Commands: Pause at Layer](https://github.com/sirmichaelyoung/gcode-layer-pause)
   - [Manufacturing Large Parts: Two Simple Methods](https://github.com/sirmichaelyoung/big-prints)
   - [Extruder Assembly Replacement](https://github.com/sirmichaelyoung/extruder-replace)
-  
+
+<h4>Version 5 Compact DJ Controller Lift</h4>
+
+  ![djprint](https://github.com/sirmichaelyoung/sirmichaelyoung/assets/163785883/d991481a-c396-42ea-aea8-39889ede8de5)
+
 
 <h2>Let's Connect:</h2>
 
