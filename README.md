@@ -18,7 +18,8 @@
 
 <h4>Version 5 Compact DJ Controller Lift</h4>
 
-  ![djprint](https://github.com/sirmichaelyoung/sirmichaelyoung/assets/163785883/d991481a-c396-42ea-aea8-39889ede8de5)
+![djprint2](https://github.com/sirmichaelyoung/sirmichaelyoung/assets/163785883/47aa5336-0ee2-4aa4-8a45-0ff0f98ac724)
+
 
 
 <h2>Let's Connect:</h2>
