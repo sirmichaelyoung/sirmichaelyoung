@@ -15,6 +15,7 @@
   - [Inserting G-Code Commands: Pause at Layer](https://github.com/sirmichaelyoung/gcode-layer-pause)
   - [Manufacturing Large Parts: Two Simple Methods](https://github.com/sirmichaelyoung/big-prints)
   - [Extruder Assembly Replacement](https://github.com/sirmichaelyoung/extruder-replace)
+  - [Improved Starting G-Code for Sovol SV06 Plus](https://github.com/sirmichaelyoung/sv06-)
 
 <h4>Version 5 Compact DJ Controller Lift</h4>
 
